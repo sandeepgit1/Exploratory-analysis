@@ -10,9 +10,7 @@ Description:
 --
 
 
-Application of Python and Pandas to compute summary statistics, create pivot tables, remove missing values, and reindex rows 
-
-on survey data
+Application of Python and Pandas to compute summary statistics, create pivot tables, remove missing values, and reindex rows on survey data
 
 Dataset:
 --
